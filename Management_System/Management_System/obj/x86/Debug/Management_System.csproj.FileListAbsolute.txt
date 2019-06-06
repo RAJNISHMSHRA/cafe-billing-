@@ -1,0 +1,8 @@
+F:\projects websites\ecommercewebsite\Management_System\Management_System\bin\Debug\Management_System.exe
+F:\projects websites\ecommercewebsite\Management_System\Management_System\bin\Debug\Management_System.pdb
+F:\projects websites\ecommercewebsite\Management_System\Management_System\obj\x86\Debug\Management_System.Form1.resources
+F:\projects websites\ecommercewebsite\Management_System\Management_System\obj\x86\Debug\Management_System.Properties.Resources.resources
+F:\projects websites\ecommercewebsite\Management_System\Management_System\obj\x86\Debug\Management_System.csproj.GenerateResource.Cache
+F:\projects websites\ecommercewebsite\Management_System\Management_System\obj\x86\Debug\Management_System.exe
+F:\projects websites\ecommercewebsite\Management_System\Management_System\obj\x86\Debug\Management_System.pdb
+F:\projects websites\ecommercewebsite\Management_System\Management_System\obj\x86\Debug\Management_System.csprojResolveAssemblyReference.cache
